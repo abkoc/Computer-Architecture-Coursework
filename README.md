@@ -1,5 +1,5 @@
-# MIPS-Coursework
-In this project, you will learn how to write and simulate MIPS code.
+# Computer Architecture Course Project
+In this project, you will learn how to write and simulate **MIPS** code.
 
 Download QtSpim from http://spimsimulator.sourceforge.net/ and install it to your computer.
 
